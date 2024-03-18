@@ -1,2 +1,2 @@
-# Real_Data_Analysi
+# Real_Data_Analysis
 This repository is used to upload data science projects.
